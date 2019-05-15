@@ -74,3 +74,9 @@ h2{
 .top-nav ul li:hover{
 	left: 4px;
 }
+
+h6{
+	background-color: white;
+	margin: 20px;
+	padding: 10px 20px;
+}
